@@ -1,0 +1,5 @@
+1. edit index.html
+
+2. upload to github
+
+3. find link in setting -> pages 
