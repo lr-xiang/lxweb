@@ -1,0 +1,5 @@
+Xingjian Li
+Undergraduate Research Assistant
+xli228@ncsu.edu
+
+I am an undergraduate majoring in Electrical Engineering at NC State University. My interests include image processing and controls for robotics. My lab projects include: Automatic Blueberry Counting and Weight Estimation using Images on Mobile Devices, Industrial Robotic Arm Simulation in Unreal Engine 5 used for Simulating Plant 3D Mesh Reconstruction Process.
